@@ -1,4 +1,4 @@
-# assignment 01
+# Clarissa Ivana - 10219051 - PR 02
 Create a new folder using your NIM and create a file named `README.md` in the folder with following content
 
 ```
